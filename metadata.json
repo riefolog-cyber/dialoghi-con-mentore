@@ -1,0 +1,10 @@
+{
+  "name": "dialoghi con Mentore",
+  "description": "Dialoghi filosofici e storici attraverso i secoli con mentori illustri.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
